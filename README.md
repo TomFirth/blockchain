@@ -1,3 +1,3 @@
 # Node Blockchain
 
-[Thanks to Spenser Huang](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
+[Thanks to Xavier Decuyper](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)

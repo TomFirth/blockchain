@@ -4,7 +4,7 @@
   "description": "BeardCoin",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "node src/main.js",
     "test": "standard"
   },
   "license": "ISC",
