@@ -1,17 +1,14 @@
 {
   "name": "blockchain",
   "version": "1.0.0",
-  "description": "blockchain demo",
+  "description": "BeardCoin",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node .",
     "test": "standard"
   },
   "license": "ISC",
   "dependencies": {
-    "crypto-js": "4.1.1"
-  },
-  "devDependencies": {
-    "standard": "*"
+    "crypto-js": "^4.1.1"
   }
 }
